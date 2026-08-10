@@ -5,8 +5,23 @@
     <link>https://www.akhbaar24.com/%D8%AA%D9%82%D9%86%D9%8A%D8%A9</link>
     <description>آخر أخبار قسم تقنية</description>
     <language>ar</language>
-    <lastBuildDate>Sun, 09 Aug 2026 23:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 00:07:06 +0000</lastBuildDate>
     <generator>NewsScraperAgent</generator>
-
+    <item>
+      <title>"أنثروبيك" تفعّل الوضع التلقائي في "كلود كود"</title>
+      <link>https://www.akhbaar24.com/%D8%AA%D9%82%D9%86%D9%8A%D8%A9/%D8%A3%D9%86%D8%AB%D8%B1%D9%88%D8%A8%D9%8A%D9%83-%D8%AA%D9%81%D8%B9%D9%84-%D8%A7%D9%84%D9%88%D8%B6%D8%B9-%D8%A7%D9%84%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A-%D9%81%D9%8A-%D9%83%D9%84%D9%88%D8%AF-%D9%83%D9%88%D8%AF-766346</link>
+      <guid isPermaLink="true">https://www.akhbaar24.com/%D8%AA%D9%82%D9%86%D9%8A%D8%A9/%D8%A3%D9%86%D8%AB%D8%B1%D9%88%D8%A8%D9%8A%D9%83-%D8%AA%D9%81%D8%B9%D9%84-%D8%A7%D9%84%D9%88%D8%B6%D8%B9-%D8%A7%D9%84%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A-%D9%81%D9%8A-%D9%83%D9%84%D9%88%D8%AF-%D9%83%D9%88%D8%AF-766346</guid>
+      <pubDate>Sun, 09 Aug 2026 23:52:49 +0000</pubDate>
+      <dc:creator>المحرر</dc:creator>
+      <category>تقنية</category>
+      <category>حماية البيانات الشخصية</category>
+      <category>التقنية</category>
+      <category>الذكاء الاصطناعي</category>
+      <description>ستقوم شركة "أنثروبيك" بتفعيل الوضع التلقائي "Auto Mode" بشكل افتراضي في أداة "كلود كود" اعتبارًا من 14 أغسطس، مما يقلل الحاجة لموافقة المستخدم على الخطوات المنفذة. وقد أثبتت الاختبارات أن هذا الوضع قادر على رصد 89% من الإجراءات الضارة، مع تعزيز حماية المستخدمين بإضافة أدوات لفحص "حقن التعليمات".</description>
+      <content:encoded><![CDATA[<p><img src="https://assets.maestronewsroom.com/media/b6b5fbfc-544f-4e99-86a1-58234460e4ef/proxies/59710f54-daa3-4f94-aa95-3cc1f0d15751.webp" alt=""أنثروبيك" تفعّل الوضع التلقائي في "كلود كود"" /></p>
+<p>تعتزم شركة "أنثروبيك" تفعيل الوضع التلقائي "Auto Mode" بشكل افتراضي في أداة البرمجة "كلود كود" اعتبارًا من يوم 14 أغسطس، بما يقلل الحاجة إلى موافقة المستخدم على الخطوات التي تنفذها الأداة أثناء العمل.</p><p>وكانت الشركة قد طرحت نسخة تجريبية من الوضع التلقائي في مارس الماضي، بهدف تسريع تنفيذ المهام مع الإبقاء على ضوابط الأمان.</p><p>وأظهرت اختبارات أجرتها "أنثروبيك" أن الوضع التلقائي رصد 89% من الإجراءات الضارة في دراسة شملت 1053 مستخدمًا مدفوعًا، مقابل 13.6% فقط للمراجعة البشرية.</p><p>وتعزز "أنثروبيك" إجراءات الحماية المصاحبة للوضع التلقائي، بإضافة قواعد رفض قابلة للتخصيص لمنع إجراءات مثل تسريب البيانات.</p>]]></content:encoded>
+      <enclosure url="https://assets.maestronewsroom.com/media/b6b5fbfc-544f-4e99-86a1-58234460e4ef/proxies/59710f54-daa3-4f94-aa95-3cc1f0d15751.webp" length="0" type="image/webp" />
+      <media:content url="https://assets.maestronewsroom.com/media/b6b5fbfc-544f-4e99-86a1-58234460e4ef/proxies/59710f54-daa3-4f94-aa95-3cc1f0d15751.webp" type="image/webp" />
+    </item>
   </channel>
 </rss>
