@@ -5,8 +5,25 @@
     <link>https://www.akhbaar24.com/%D8%AA%D9%82%D9%86%D9%8A%D8%A9</link>
     <description>آخر أخبار قسم تقنية</description>
     <language>ar</language>
-    <lastBuildDate>Wed, 12 Aug 2026 17:12:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 17:43:10 +0000</lastBuildDate>
     <generator>NewsScraperAgent</generator>
+    <item>
+      <title>اكتشاف ثغرة أمنية جديدة في نظام ويندوز</title>
+      <link>https://www.akhbaar24.com/%D8%AA%D9%82%D9%86%D9%8A%D8%A9/%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D8%AB%D8%BA%D8%B1%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2-766604</link>
+      <guid isPermaLink="true">https://www.akhbaar24.com/%D8%AA%D9%82%D9%86%D9%8A%D8%A9/%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D8%AB%D8%BA%D8%B1%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2-766604</guid>
+      <pubDate>Wed, 12 Aug 2026 17:39:03 +0000</pubDate>
+      <dc:creator>المحرر</dc:creator>
+      <category>تقنية</category>
+      <category>مايكروسوفت</category>
+      <category>ثغرة امنية</category>
+      <category>ويندز 10</category>
+      <category>ويندوز 11</category>
+      <description>اكتشف باحثون ثغرة أمنية جديدة في نظام ويندوز تُسمى "ShieldBreak"، تمكن المهاجمين من الحصول على صلاحيات واسعة للوصول إلى الأجهزة والبيانات، حيث تستغل خللًا في أداة "Windows Defender". تؤثر الثغرة على أنظمة "Windows 10" و"Windows 11" و"Windows Server 2025"، ولم تصدر "مايكروسوفت" بعد تحديثًا لمعالجتها.</description>
+      <content:encoded><![CDATA[<p><img src="https://assets.maestronewsroom.com/media/b6b5fbfc-544f-4e99-86a1-58234460e4ef/proxies/c794cc79-e026-49d5-bd7a-04dcebfc41e3.webp" alt="اكتشاف ثغرة أمنية جديدة في نظام ويندوز" /></p>
+<p>اكتشف باحثون في الأمن السيبراني، ثغرة جديدة في الإصدارات الحديثة من نظام التشغيل "ويندوز"، تتيح للمهاجمين الحصول على صلاحيات واسعة للوصول إلى أجهزة المستخدمين وبياناتهم، وذلك رغم تهديد شركة "مايكروسوفت" باتخاذ إجراءات قانونية ضد نشر تفاصيل عن ثغرات غير معالجة.</p><blockquote><p>تمنح وصولًا كاملًا للنظام وللبيانات</p></blockquote><p>وتحمل الثغرة اسم "ShieldBreak"، وتستغل خللًا في أداة "Windows Defender" المدمجة لمكافحة البرمجيات الضارة، إذ يمكن أن تتيح للمهاجم رفع مستوى صلاحياته من مستخدم محدود الصلاحيات إلى وصول كامل للنظام وبيانات الجهاز.</p><p>كما تؤثر الثغرة في نظامي "Windows 10" و"Windows 11"، بما في ذلك الإصدار الأحدث 25H2، إضافة إلى "Windows Server 2025"، حيث تنضم "ShieldBreak" لثغرة سابقة أطلق عليها الباحث اسم "RoguePlanet"، بعد أن أصدرت "مايكروسوفت" تحديثًا لمعالجتها.</p><p>ولم تصدر "مايكروسوفت" حتى الآن تحديثًا أمنيًا لمعالجة ثغرة "ShieldBreak"، فيما لم تقدم الشركة تعليقًا فوريًا على الكشف عنها، وتُصنَّف الثغرة ضمن ثغرات "Zero-Day" بسبب نشر تفاصيلها قبل منح الشركة فرصة لمعالجتها.</p>]]></content:encoded>
+      <enclosure url="https://assets.maestronewsroom.com/media/b6b5fbfc-544f-4e99-86a1-58234460e4ef/proxies/c794cc79-e026-49d5-bd7a-04dcebfc41e3.webp" length="0" type="image/webp" />
+      <media:content url="https://assets.maestronewsroom.com/media/b6b5fbfc-544f-4e99-86a1-58234460e4ef/proxies/c794cc79-e026-49d5-bd7a-04dcebfc41e3.webp" type="image/webp" />
+    </item>
     <item>
       <title>ارتفاع مؤشر نضج التجربة الرقمية بالمملكة إلى 87%</title>
       <link>https://www.akhbaar24.com/%D8%AA%D9%82%D9%86%D9%8A%D8%A9/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%85%D8%A4%D8%B4%D8%B1-%D9%86%D8%B6%D8%AC-%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A5%D9%84%D9%89-87-766564</link>
